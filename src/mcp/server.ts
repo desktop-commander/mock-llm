@@ -11,11 +11,7 @@ export interface MCPServerInfo {
 export function getMCPServer(): MCPServerInfo {
   const server = new McpServer({
     name: "echo-mcp",
-    version: "1.0.0",
-    capabilities: {
-      resources: {},
-      tools: {},
-    },
+    version: "1.0.0"
   });
 
   const tools = configureTools(server);
