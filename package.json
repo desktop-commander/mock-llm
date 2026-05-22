@@ -7,7 +7,6 @@
     "mock-llm": "./dist/main.js"
   },
   "scripts": {
-    "prepare": "npm run build",
     "build": "tsc",
     "start": "node dist/main.js",
     "dev": "tsx watch src/main.ts",

@@ -1,0 +1,1 @@
+{"version":3,"file":"control.d.ts","sourceRoot":"","sources":["../../src/oauth/control.ts"],"names":[],"mappings":"AAAA,OAAO,OAA8B,MAAM,SAAS,CAAC;AACrD,OAAO,EAAE,UAAU,EAAE,MAAM,SAAS,CAAC;AACrC,OAAO,EAAE,WAAW,EAAE,MAAM,SAAS,CAAC;AAEtC,wBAAgB,mBAAmB,CACjC,KAAK,EAAE,UAAU,EACjB,SAAS,EAAE,MAAM,WAAW,GAAG,SAAS,GACvC,OAAO,CAAC,MAAM,CAsDhB"}
